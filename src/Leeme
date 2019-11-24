@@ -1,0 +1,8 @@
+El programa queda elaborado para realizar la consulta que se pide en la PAC.
+Se pide el número de pasajeros y con este dato se crea el Avión y la lista
+de Pasajeros con sus clases.
+Algunos getters y setters son superfluos para la funcionalidad pero se han
+dejado como muestra.
+En el Main se deja, comentado, el código para poder realizar el "embarque"
+repetidas veces y así explorar la solución a la pregunta de la revista.
+Curiosamente la probabilidad es del 50%.
